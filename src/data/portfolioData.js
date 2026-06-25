@@ -76,13 +76,13 @@ export const PROJECTS = [
     title: "Kidquest",
     desc: "A responsive, web-based educational platform for children that features interactive learning modules and games.",
     tags: ["React", "CSS", "JavaScript", "PHP", "Tailwind CSS"],
-    link: "https://kidquest.rf.gd/",
+    link: "https://kidquest.rf.gd/?i=1",
   },
   {
     title: "PerFragrances",
     desc: "A responsive, web-based e-commerce platform for a fragrance retailer that features different brands and fragrances.",
     tags: ["PHP", "CSS", "JavaScript", "phpMYAdmin"],
-    link: "https://perfragrances.rf.gd/",
+    link: "https://perfragrances.rf.gd/?i=1",
   },
 ];
 
